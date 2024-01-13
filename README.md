@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>Hi there 👋</h3>
+
 <hr>
+
 <h3>🍐 Current Interests</h3>
 <h4>A sculpture I made in Blender 3D recently</h4>
 <img src="https://github.com/minh711/minh711/assets/109033167/77ab5f9e-cec0-4837-b3ba-d2b9171417f8" width="512"/>
+
 <hr>
+
 <h3 align="left">🍅 Languages and Tools</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minh711&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <h4 align="left">💻 Programming Languages</h4>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> &nbsp&nbsp&nbsp&nbsp
@@ -58,7 +61,15 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> 
 </p>
+
 <hr>
+
+<h3>🍹 GitHub Trophies</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=minh711&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<hr>
+
 <h3>⁉ More...</h3>
 <p>
   Still in development...
