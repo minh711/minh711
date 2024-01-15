@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <h3>🍹 GitHub Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=minh711&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=minh711&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <hr>
 
