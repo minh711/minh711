@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 </p>
 <h4 align="left">🎁 Software</h4>
 <p align="left"> 
+  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/animate.svg" alt="animate" width="60" height="60"/> &nbsp&nbsp&nbsp&nbsp
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> &nbsp&nbsp&nbsp&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> &nbsp&nbsp&nbsp&nbsp
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> &nbsp&nbsp&nbsp&nbsp
