@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <h4 align="left">🛠 Framework</h4>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> 
+  <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="60" height="60"/>
 </p>
 <h4 align="left">🎁 Software</h4>
 <p align="left"> 
