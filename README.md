@@ -3,8 +3,10 @@
 <hr>
 
 <h3>🍐 Current Interests</h3>
+
 <h4>A sculpture I made in Blender 3D recently</h4>
-<img src="https://github.com/minh711/minh711/assets/109033167/77ab5f9e-cec0-4837-b3ba-d2b9171417f8" width="512"/>
+
+<p align="center"><img src="https://github.com/minh711/minh711/assets/109033167/77ab5f9e-cec0-4837-b3ba-d2b9171417f8" width="512"/></p>
 
 <hr>
 
@@ -15,6 +17,5 @@
 <hr>
 
 <h3>⁉ More...</h3>
-<p>
-  Still in development...
-</p>
+
+<p>Still in development...</p>
