@@ -12,7 +12,7 @@
 
 <h3>🍹 GitHub Trophies</h3>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=minh711&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4&row=2"</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=minh711&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=4&row=2"</p>
 
 <hr>
 
