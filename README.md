@@ -10,6 +10,10 @@
 
 <hr>
 
+<h3> 🚀 Statistics</h3>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh711&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></p>
+
 <h3>🍹 GitHub Trophies</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=minh711&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=4&row=2"</p>
