@@ -4,10 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/minh711/minh711/output/snake.svg" alt="Snake animation" />
 
-<h2>🍐 Current Interests</h2>
-
-I'm working with 2 monitors and 4 desktops for each.
-
 <h2>🚀 Statistics</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh711&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></p>
