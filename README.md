@@ -1,5 +1,7 @@
 <h1>Duy Minh Truong</h1>
 
+<img width="64" height="64" alt="logo" src="https://github.com/user-attachments/assets/b6b3542b-e5d6-4bef-80bb-105141b6975e" />
+
 <h2>Hi there!</h2>
 
 <p>
