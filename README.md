@@ -1,6 +1,6 @@
 <h1>Duy Minh Truong</h1>
 
-<h2>Hi there 👋</h2>
+<h2>Hi there!</h2>
 
 <p>
   <!-- Frontend -->
